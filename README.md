@@ -2,7 +2,7 @@
 
 <img src="./banner.jpg" alt="banner" width="100%" />
 
-### you found the alt 👀 the real one's here → **[@z3zZ](https://github.com/z3zZ)**
+### you found the alt 👀 the real one (and love of my life) is here → **[@z3zZ](https://github.com/z3zZ)**
 
 <br>
 
