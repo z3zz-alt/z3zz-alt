@@ -19,10 +19,8 @@
 <sub>best commits happen after midnight, no further questions</sub>
 
 # 🪄 CODE = MAGIC
-<sub>not LEGO. magic. he will correct you.</sub>
+<sub>not LEGO. magic.(both tbf) he will correct you but both are true.</sub>
 
-# 🏙️ CANARY WHARF BOUND
-<sub>skyrise, city view, very good wi-fi</sub>
 
 # 🧪 SHIPS SIDE PROJECTS LIKE IT'S CARDIO
 <sub>klokd · inkd · errnd · rewnd — vowels not included</sub>
